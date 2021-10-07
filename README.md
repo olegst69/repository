@@ -10,6 +10,8 @@
 
 Oleg: dezvoltatori, testeri, team lead/manager, technical writer, analist, consultant.
 
+## Imaginea Arhitecturala
+
 ![wbs](https://user-images.githubusercontent.com/90377435/136331920-c29eec5f-78d3-40d0-8484-d10859e60669.png)
 
 ## Resurse Folosite
