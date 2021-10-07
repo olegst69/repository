@@ -12,3 +12,13 @@ Oleg: dezvoltatori, testeri, team lead/manager, technical writer, analist, consu
 
 ![wbs](https://user-images.githubusercontent.com/90377435/136331920-c29eec5f-78d3-40d0-8484-d10859e60669.png)
 
+## Resurse Folosite
+
+Sublime Text 3
+
+## Limbaje de Programare folosite
+
+- HTML
+- CSS
+- JavaScript
+
