@@ -1,11 +1,11 @@
-#Stavila Oleg W1841
+# Stavila Oleg W1841
 
-##Cerinte
+## Cerinte
 
   Creati infrastructură de prezentare pe GitHub
   
   Link: https://ocw.cs.pub.ro/courses/mps/laboratoare/laborator-04
   
-##Team
+## Team
 
 Oleg: dezvoltatori, testeri, team lead/manager, technical writer, analist, consultant.
